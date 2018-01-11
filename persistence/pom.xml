@@ -13,9 +13,10 @@
     <name>Persistence</name>
     <version>1.0</version>
     <modules>
-        <module>persistence_core</module>
-        <module>persistence_impl</module>
-        <module>persistence_integrationtest</module>
+        <module>persistence-core</module>
+        <module>persistence-db-migration</module>
+        <module>persistence-impl</module>
+        <module>persistence-integrationtest</module>
     </modules>
     <description>Persistence sub module represents persistence layer of Future project.</description>
 </project>	

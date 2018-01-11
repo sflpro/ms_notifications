@@ -12,7 +12,7 @@ Currently microservice supports :
 
 The microservice supports sending regular emails. The supported transports are :
 * SMTP
-
+* [Mandrill](https://www.mandrill.com/)
 ### SMS Notifications
 
 The microservice supports sending SMS notifications. The supported transports are :
